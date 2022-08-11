@@ -1,0 +1,10 @@
+insert into INSURANCE_PLANS (plan_id, plan_name, PLAN_HOLDER_NAME, PLAN_HOLDER_SSN, PLAN_STATUS) values( 101, 'SNAP', 'John', 779797979, 'APPROVED');
+insert into INSURANCE_PLANS (plan_id, plan_name, PLAN_HOLDER_NAME, PLAN_HOLDER_SSN, PLAN_STATUS) values( 102, 'SNAP', 'Smith', 889797979, 'DENIED'); 
+insert into INSURANCE_PLANS (plan_id, plan_name, PLAN_HOLDER_NAME, PLAN_HOLDER_SSN, PLAN_STATUS) values( 103, 'CCAP', 'Charles', 669797979, 'APPROVED'); 
+insert into INSURANCE_PLANS (plan_id, plan_name, PLAN_HOLDER_NAME, PLAN_HOLDER_SSN, PLAN_STATUS) values( 104, 'CCAP', 'Orlen', 559797979, 'DENIED'); 
+insert into INSURANCE_PLANS (plan_id, plan_name, PLAN_HOLDER_NAME, PLAN_HOLDER_SSN, PLAN_STATUS) values( 105, 'QHP', 'Kiye', 889797979, 'APPROVED'); 
+insert into INSURANCE_PLANS (plan_id, plan_name, PLAN_HOLDER_NAME, PLAN_HOLDER_SSN, PLAN_STATUS) values( 106, 'QHP', 'Trumph', 999797979, 'DENIED'); 
+insert into INSURANCE_PLANS (plan_id, plan_name, PLAN_HOLDER_NAME, PLAN_HOLDER_SSN, PLAN_STATUS) values( 107, 'SNAP', 'David', 119797979, 'APPROVED'); 
+insert into INSURANCE_PLANS (plan_id, plan_name, PLAN_HOLDER_NAME, PLAN_HOLDER_SSN, PLAN_STATUS) values( 108, 'SNAP', 'Butler', 229797979, 'DENIED'); 
+insert into INSURANCE_PLANS (plan_id, plan_name, PLAN_HOLDER_NAME, PLAN_HOLDER_SSN, PLAN_STATUS) values( 109, 'CCAP', 'Root', 329797979, 'APPROVED'); 
+insert into INSURANCE_PLANS (plan_id, plan_name, PLAN_HOLDER_NAME, PLAN_HOLDER_SSN, PLAN_STATUS) values( 110, 'QHP', 'Miller', 549797979, 'TERMINATED');   
